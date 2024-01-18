@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Svyatoslav</h1>
 <h3 align="center">I'm a game designer based in Sweden, specializing in C# programming. Excited to connect and learn something new about game development! 🎮🇸🇪</h3>
 
-- 🔭 I’m currently working on **My project Vampire survivors**
+- 🔭 I’m currently working on [My project Vampire survivors](https://github.com/LightOvie/Vamprie-Survivors-.git)
 
-- ⚡ Fun fact **I speak 3 languages: Swedish English Russian**
+- 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
+
+- 📫 How to reach me **slavalapshin17@gmail.com**
+
+- ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/svyatoslav-lapshin-81b442266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svyatoslav-lapshin-81b442266/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/svyatoslav-lapshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="svyatoslav-lapshin" height="30" width="40" /></a>
+
+-Other link to my old project: <a href="/https://github.com/lightovie/suph-03-build.git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/lightovie/suph-03-build.git" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
