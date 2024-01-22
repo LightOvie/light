@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm Svyatoslav</h1>
-<h3 align="center">I'm a game designer based in Sweden, specializing in C# programming. Excited to connect and learn something new about game development! 🎮🇸🇪</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Svyatoslav
+==================================================================================================================================
 
-- 🔭 I’m currently working on [My project Vampire survivors](https://github.com/LightOvie/Vamprie-Survivors-.git)
+Personal letter
+---------------
 
-- 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
-
-- 📫 How to reach me **slavalapshin17@gmail.com**
-
-- ⚡ Fun fact **I speak 3 languages: Swedish English Russian**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/svyatoslav-lapshin-81b442266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="svyatoslav-lapshin-81b442266" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I hope this message reaches. My name is Svyatoslav Lapshin and I am a dedicated and ambitious student looking for an internship in the gaming industry from 2024-03-20 until 2024-06-02. I am particularly impressed with your work in the gaming industry, and I believe I can learn a lot by being part of your team. My education and passion for the games program has equipped me with knowledge and skills that I look forward to putting into practice. I am open to learning and would like to benefit from your guidance. I am convinced that an internship with you would be a rewarding experience for me. I am very interested in the possibility of a traineeship with . I have attached my google disk with my portfolio for your reference and would be grateful if you could consider my application. Thank you for your time and attention. I look forward to hearing from you and the opportunity to discuss more about how I can be an asset to your organization.
